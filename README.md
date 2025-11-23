@@ -3,6 +3,8 @@
 This is a full-stack AI-powered platform that helps users enhance their resumes and job applications with intelligent suggestions.  
 Built with modern web technologies, it ensures a seamless experience from profile creation to job optimization.
 
+## Live link
+### [click here](https://ai-resume-optimizer-z9pa.vercel.app/)
 ---
 
 ## Tech Stack
